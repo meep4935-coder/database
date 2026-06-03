@@ -35,7 +35,6 @@ DATASET_ID = "4e75337e-70d0-4ed7-92d1-3b85192ec6b1"
 CKAN_API   = f"https://open.canada.ca/data/api/action/package_show?id={DATASET_ID}"
 
 # Updated column names present in the current ISED release.
-# Note: 'Title  - English' contains a double space before the hyphen.
 COL_PROGRAM_NAME = "Title  - English"
 COL_CATEGORY     = "Organization - English"
 
