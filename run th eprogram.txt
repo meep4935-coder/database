@@ -1,0 +1,2 @@
+cd "C:\Users\WongK2\OneDrive - ISED-ISDE\Desktop\database"
+& "$env:USERPROFILE\.local\bin\uv" run --no-cache --script ".\bbf_scanner.py"

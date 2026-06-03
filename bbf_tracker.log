@@ -1,0 +1,10 @@
+2026-06-03 15:01:06  INFO      Querying open.canada.ca CKAN API for latest dataset release …
+2026-06-03 15:01:07  INFO      Latest release: 'IC Programs and Services (2025 July)' (modified 2025-07-17T16:11:03.293360)
+2026-06-03 15:01:07  INFO      Downloading dataset: https://open.canada.ca/data/dataset/4e75337e-70d0-4ed7-92d1-3b85192ec6b1/resource/d07f854d-1cac-4f18-b4f4-5b3c4c7ffa21/download/ic_programs_and_services__ic_programmes_et_services_2025_07.xlsx
+2026-06-03 15:01:07  INFO      Parsed 1614 program entries.
+2026-06-03 15:01:07  INFO      History saved to 'C:\Users\WongK2\OneDrive - ISED-ISDE\Desktop\database\bbf_program_history.json'.
+2026-06-03 15:37:07  INFO      Querying open.canada.ca CKAN API for latest dataset release …
+2026-06-03 15:37:08  INFO      Latest release: 'IC Programs and Services (2025 July)' (modified 2025-07-17T16:11:03.293360)
+2026-06-03 15:37:08  INFO      Downloading dataset: https://open.canada.ca/data/dataset/4e75337e-70d0-4ed7-92d1-3b85192ec6b1/resource/d07f854d-1cac-4f18-b4f4-5b3c4c7ffa21/download/ic_programs_and_services__ic_programmes_et_services_2025_07.xlsx
+2026-06-03 15:37:09  INFO      Parsed 1614 program entries.
+2026-06-03 15:37:09  INFO      History saved to 'C:\Users\WongK2\OneDrive - ISED-ISDE\Desktop\database\bbf_program_history.json'.
